@@ -6,7 +6,7 @@
 <div align="center"
   
 ### *New to Github* 
-### I Create Art & Study Culture. 
+### creating art & studying culture 
 #### [*Check out my photography*.](http://alchemyofhearts.com)
 
 ---
@@ -14,11 +14,9 @@
  
 Hello, *specific corner of the internet*,
 
-I am new(ish) to all things here, so this will be brief. I'm currently wrapping up a Bachelors program in **Anthropology**; 
-I'm a **globally travelled, self-diagnosed Gemini.** 
-I don't know what I'm doing, but I prefer the spontaneity of that.
+I am new(ish) to all things here, learning & growing.
 
-***I collect hobbies, remember stories, forget names, and revere nature.*** :)
+Interested in adobe open source .... 
 
 <div align="center"
   
